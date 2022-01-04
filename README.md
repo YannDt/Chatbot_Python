@@ -1,2 +1,2 @@
 # chatbot_professorcornelio
-Projeto Chatbot Professor Cornélio em Python
+Projeto de um chatbot que realiza operações matématicas simples, desenvolvido inteiramente em Python para um projeto da faculdade.
