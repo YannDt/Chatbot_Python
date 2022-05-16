@@ -1,6 +1,6 @@
 # Objetivo
 
-Projeto de um chatbot que realiza operações matématicas simples, desenvolvido em Python para um projeto da faculdade.
+Projeto de um chatbot desenvolvido em Python com o objetivo de realizar operações matématicas simples.
 
 
 ## Projeto em funcionamento
